@@ -1,0 +1,11 @@
+C:\Repositorios\Prueba Ceiba Eventos\Domain\bin\Debug\net10.0\Domain.deps.json
+C:\Repositorios\Prueba Ceiba Eventos\Domain\bin\Debug\net10.0\Domain.dll
+C:\Repositorios\Prueba Ceiba Eventos\Domain\bin\Debug\net10.0\Domain.pdb
+C:\Repositorios\Prueba Ceiba Eventos\Domain\obj\Debug\net10.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\Prueba Ceiba Eventos\Domain\obj\Debug\net10.0\Domain.AssemblyInfoInputs.cache
+C:\Repositorios\Prueba Ceiba Eventos\Domain\obj\Debug\net10.0\Domain.AssemblyInfo.cs
+C:\Repositorios\Prueba Ceiba Eventos\Domain\obj\Debug\net10.0\Domain.csproj.CoreCompileInputs.cache
+C:\Repositorios\Prueba Ceiba Eventos\Domain\obj\Debug\net10.0\Domain.dll
+C:\Repositorios\Prueba Ceiba Eventos\Domain\obj\Debug\net10.0\refint\Domain.dll
+C:\Repositorios\Prueba Ceiba Eventos\Domain\obj\Debug\net10.0\Domain.pdb
+C:\Repositorios\Prueba Ceiba Eventos\Domain\obj\Debug\net10.0\ref\Domain.dll

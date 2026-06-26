@@ -1,0 +1,15 @@
+C:\Repositorios\Prueba Ceiba Eventos\Application\bin\Debug\net10.0\Application.deps.json
+C:\Repositorios\Prueba Ceiba Eventos\Application\bin\Debug\net10.0\Application.dll
+C:\Repositorios\Prueba Ceiba Eventos\Application\bin\Debug\net10.0\Application.pdb
+C:\Repositorios\Prueba Ceiba Eventos\Application\bin\Debug\net10.0\Domain.dll
+C:\Repositorios\Prueba Ceiba Eventos\Application\bin\Debug\net10.0\Domain.pdb
+C:\Repositorios\Prueba Ceiba Eventos\Application\obj\Debug\net10.0\Application.csproj.AssemblyReference.cache
+C:\Repositorios\Prueba Ceiba Eventos\Application\obj\Debug\net10.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\Prueba Ceiba Eventos\Application\obj\Debug\net10.0\Application.AssemblyInfoInputs.cache
+C:\Repositorios\Prueba Ceiba Eventos\Application\obj\Debug\net10.0\Application.AssemblyInfo.cs
+C:\Repositorios\Prueba Ceiba Eventos\Application\obj\Debug\net10.0\Application.csproj.CoreCompileInputs.cache
+C:\Repositorios\Prueba Ceiba Eventos\Application\obj\Debug\net10.0\Applicat.44B5EDA2.Up2Date
+C:\Repositorios\Prueba Ceiba Eventos\Application\obj\Debug\net10.0\Application.dll
+C:\Repositorios\Prueba Ceiba Eventos\Application\obj\Debug\net10.0\refint\Application.dll
+C:\Repositorios\Prueba Ceiba Eventos\Application\obj\Debug\net10.0\Application.pdb
+C:\Repositorios\Prueba Ceiba Eventos\Application\obj\Debug\net10.0\ref\Application.dll
