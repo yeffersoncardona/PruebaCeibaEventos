@@ -1,6 +1,6 @@
 # 🎟️ WebApiEventosEnVivo - Backend (.NET)
 
-Backend desarrollado en **.NET 8 / C#** siguiendo principios de **Clean Architecture** para gestionar eventos y reservas con reglas de negocio validadas mediante pruebas automatizadas.
+Backend desarrollado en **.NET 10 / C#** siguiendo principios de **Clean Architecture** para gestionar eventos y reservas con reglas de negocio validadas mediante pruebas automatizadas.
 
 ---
 
@@ -8,17 +8,28 @@ Backend desarrollado en **.NET 8 / C#** siguiendo principios de **Clean Architec
 
 1. **Clonar el repositorio**
    ```bash
-   git clone https://github.com/<tu_usuario>/EventosEnVivo.git
-   cd EventosEnVivo
-
+   git clone https://github.com/<tu_usuario>/PruebaCeibaEventos.git
+   cd PruebaCeibaEventos
+   
 2. **Configurar la base de datos**
 
 Por defecto: InMemory (no requiere configuración).
 
 Para SQL Server: actualizar la cadena de conexión en appsettings.json.
 
-3. **Restaurar dependencias**
+3. **Aplicar migraciones (EF Core)**
 
+⚠️ Importante: ejecutar siempre desde la carpeta raíz de la solución (PruebaCeibaEventos).
+
+Crear migración inicial:
+
+ dotnet ef migrations add InitialCreate -p Infrastructure -s WebApiEventosEnVivo --context EventosEnVivoDbContext
+ 
+Aplicar migraciones a la base de datos:
+ 
+ dotnet ef database update -p Infrastructure -s WebApiEventosEnVivo --context EventosEnVivoDbContext
+ 
+Restaurar dependencias
    ```bash
    dotnet restore
 
