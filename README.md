@@ -21,22 +21,22 @@ Para SQL Server: actualizar la cadena de conexión en appsettings.json.
 
 ⚠️ Importante: ejecutar siempre desde la carpeta raíz de la solución (PruebaCeibaEventos).
 
-Crear migración inicial:
-
- dotnet ef migrations add InitialCreate -p Infrastructure -s WebApiEventosEnVivo --context EventosEnVivoDbContext
- 
-Aplicar migraciones a la base de datos:
- 
+**Crear migración inicial:**
+ ```bash
+ dotnet ef migrations add InitialCreate -p Infrastructure -s WebApiEventosEnVivo --context EventosEnVivoDbContext ´´´
+ ```
+**Aplicar migraciones a la base de datos:**
+ ```bash
  dotnet ef database update -p Infrastructure -s WebApiEventosEnVivo --context EventosEnVivoDbContext
- 
-Restaurar dependencias
+ ```
+**Restaurar dependencias**
    ```bash
    dotnet restore
-
+   ```
 4. **Ejecutar Api**
    ```bash
   dotnet run --project WebApiEventosEnVivo.API
-
+   ```
 5. **Acceder a la Api**
    https://localhost:7100/scalar/v1
 
