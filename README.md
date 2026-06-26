@@ -35,7 +35,7 @@ Para SQL Server: actualizar la cadena de conexión en appsettings.json.
    ```
 4. **Ejecutar Api**
    ```bash
-  dotnet run --project WebApiEventosEnVivo.API
+   dotnet run --project WebApiEventosEnVivo.API
    ```
 5. **Acceder a la Api**
    https://localhost:7100/scalar/v1
